@@ -1,7 +1,7 @@
 {
   "name": "github-finder",
   "version": "0.1.0",
-  "homepage": "https://Gurlinkaur23.github.io/github-finder",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
